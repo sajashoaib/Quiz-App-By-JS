@@ -1,0 +1,82 @@
+[
+  {
+    "title": "What does the DOM stand for in JavaScript?",
+    "answer_1": "Document Object Model",
+    "answer_2": "Display Object Method",
+    "answer_3": "Data Object Manipulation",
+    "answer_4": "Document Over Method",
+    "right_answer": "Document Object Model"
+  },
+  {
+    "title": "Which keyword is used to declare variables in JavaScript?",
+    "answer_1": "dim",
+    "answer_2": "var",
+    "answer_3": " int",
+    "answer_4": "let",
+    "right_answer": "let"
+  },
+  {
+    "title": "Which one of the following is NOT a valid way to declare a function in JavaScript?",
+    "answer_1": " function myFunction() {}",
+    "answer_2": "let myFunction = function() {};",
+    "answer_3": "const myFunction = () => {} ",
+    "answer_4": " var function = () => {};",
+    "right_answer": "var function = () => {};"
+  },
+  {
+    "title": "Which statement correctly assigns a value to a variable in JavaScript?",
+    "answer_1": "x = 5;",
+    "answer_2": "5 = x;",
+    "answer_3": "var 5 = x;",
+    "answer_4": "set x to 5;",
+    "right_answer": "x = 5;"
+  },
+  {
+    "title": "Which function is used to print content to the console in JavaScript?",
+    "answer_1": "log()",
+    "answer_2": "print()",
+    "answer_3": "display()",
+    "answer_4": "console.log()",
+    "right_answer": "console.log()"
+  },
+  {
+    "title": "Which operator is used for strict equality comparison in JavaScript? ",
+    "answer_1": "==",
+    "answer_2": "===",
+    "answer_3": "=",
+    "answer_4": "<",
+    "right_answer": "==="
+  },
+  {
+    "title": "What does the 'typeof' operator in JavaScript do?",
+    "answer_1": "Checks if a variable is null",
+    "answer_2": "Checks if a variable is undefined",
+    "answer_3": "Returns the type of a variable",
+    "answer_4": "Converts a variable to a different type",
+    "right_answer": "Returns the type of a variable"
+  },
+  {
+    "title": "Which event occurs when the user clicks on an HTML element in JavaScript?",
+    "answer_1": "onmouseover",
+    "answer_2": "onclick",
+    "answer_3": "onchange",
+    "answer_4": " onsubmit",
+    "right_answer": "onclick"
+  },
+  {
+    "title": "What is the purpose of the 'return' statement in a JavaScript function?",
+    "answer_1": "To stop the execution of the function",
+    "answer_2": "To specify the type of the function",
+    "answer_3": "To return a value from the function",
+    "answer_4": "To delete the function",
+    "right_answer": "To return a value from the function"
+  },
+  {
+    "title": "Which method is used to add a new item to the end of an array in JavaScript?  ",
+    "answer_1": "append()",
+    "answer_2": "push()",
+    "answer_3": "add()",
+    "answer_4": "insert()",
+    "right_answer": "push()"
+  }
+]
